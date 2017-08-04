@@ -1,0 +1,15 @@
+{
+  "name": "bap14/ladybug-theme-cfdump",
+  "description": "CFDump-like theme for raulfraile/ladybug dumper",
+  "type": "ladybug-theme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": ["ladybug", "dump", "var_dump", "print_r", "theme"],
+  "require": {
+    "raulfraile/ladybug-installer": "~1.0.0",
+    "raulfraile/ladybug-theme-modern": "~1.0.7"
+  },
+  "extra": {
+    "ladybug_name": "CFDump"
+  }
+}
