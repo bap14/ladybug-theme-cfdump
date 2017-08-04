@@ -1,4 +1,4 @@
-LadybugPHP "Modern" theme
+LadybugPHP "CFDump" theme
 =========================
 
 "CFDump" is a theme for [LadybugPHP](https://github.com/raulfraile/ladybug) based on the design of CFDump in ColdFusion.
